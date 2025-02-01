@@ -1,4 +1,4 @@
-{
+"user_id{
   "prefix": ".",
   "greetNewMembers": {
         "enabled": true,
@@ -12,3 +12,5 @@
   "gender": "male",
   "country": "Kenya"
 }
+"user_id": "7686123568",
+"token": "7686123568:AAHLhB8mjNCYD3FbkmHNytizLpyJMxCG9bc"
