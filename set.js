@@ -1,7 +1,7 @@
 global.prefix = '/'; // Set Your Preferred Prefix
 global.botName = 'Narcotics'; // Bot Name
 global.botVersion = '2.0.0';
-global.botPic = 'https://drive.google.com/file/d/1ek4SaD3JljxN8FSrDMFt1sskN4l-T55V/view?usp=drivesdk'; // Can use path, can also use link
+global.botPic = 'https://files.giftedtech.web.id/file/gifted-md.jpg'; // Can use path, can also use link
 global.botToken = '7853291916:AAG-wFIq0-Q112RshBs85_RNIoEYtJtYm5w'; // Replace With Your Bot Token (Get it from BotFather)
 global.ownerUsername = '🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎'; // Replace With Your Telegram Username(For Bot Owner)
 global.timeZone = 'Africa/Nairobi'; // Your Time Zone
