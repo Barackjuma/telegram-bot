@@ -1,7 +1,7 @@
 {
-  "name": "gifteed-md",
+  "name": "narcotics",
   "version": "2.0.0",
-  "description": "Gifted-Md, A simple Telegram user bot Created by Gifted Tech",
+  "description": "Narcotics, A simple Telegram user bot Created by 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎",
   "main": "./index.js",
   "type": "commonjs",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "keywords": [
     "telegrambot",
-    "gifted-md",
+    "narcotics",
     "gifted-api",
     "mouricedevs",
     "maher-zubair"
