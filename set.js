@@ -1,12 +1,12 @@
 global.prefix = '/'; // Set Your Preferred Prefix
 global.botName = 'Narcotics'; // Bot Name
 global.botVersion = '2.0.0';
-global.botPic = 'https://pin.it/5k5sSySze'; // Can use path, can also use link
+global.botPic = 'https://pin.it/McQ7FMZAY'; // Can use path, can also use link
 global.botToken = '7853291916:AAG-wFIq0-Q112RshBs85_RNIoEYtJtYm5w'; // Replace With Your Bot Token (Get it from BotFather)
 global.ownerUsername = '🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎'; // Replace With Your Telegram Username(For Bot Owner)
 global.timeZone = 'Africa/Nairobi'; // Your Time Zone
 global.ownerId = [7853291916]; // Replace With Your Owner ID(For Bot Owner), You Can Add More than 1
-global.footer = '*Powered by GiftedTech*';
+global.footer = '*Powered by 🅑︎🅐︎🅡︎🅐︎🅒︎🅚︎*';
 global.ytdlWeb = 'https://ytdl.giftedtech.web.id';
 global.giftedApi = 'https://api.giftedtech.web.id/api'; // Gifted Api
 global.giftedKey = ''; // Gifted Api Key
